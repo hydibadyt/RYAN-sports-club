@@ -183,4 +183,23 @@
   }
   
 
-
+  .social-links .youtube:hover {
+    background-color: #FF0000;
+    color: #fff;
+  }
+  
+  .social-links .instagram:hover {
+    background-color: #E1306C;
+    color: #fff;
+  }
+  
+  .social-links .github:hover {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .social-links .facebook:hover {
+    background-color: #3b5998;
+    color: #fff;
+  }
+  
